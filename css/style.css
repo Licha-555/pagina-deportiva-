@@ -302,8 +302,10 @@ gap: 20px;
 .Noticias-item h3 {
     font-size: 1.2rem;
 }
-.footer-link {
-    
+.footer-linkm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 }
 
